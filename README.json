@@ -64,7 +64,7 @@
             "last_commit": "2026-04-13T09:34:10Z",
             "owner": "helloianneo",
             "repo": "obsidian-ai-second-brain",
-            "stars": 230
+            "stars": 232
           }
         },
         {
@@ -78,7 +78,7 @@
             "last_commit": "2026-04-01T00:24:10Z",
             "owner": "helloianneo",
             "repo": "claude-code-handbook",
-            "stars": 209
+            "stars": 208
           }
         }
       ],
@@ -91,7 +91,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:57:49.996Z",
+    "last_updated": "2026-08-19T06:58:33.229Z",
     "original_repository": "helloianneo/awesome-claude-code-skills",
     "original_repository_sha": "37cf1a830b904f9fd2b995455f3b00fdae17bdc0",
     "enhanced_repository": "enhansome/enhansome-claude-code-skills",
