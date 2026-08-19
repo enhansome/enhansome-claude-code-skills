@@ -1,57 +1,7 @@
 {
   "items": [
     {
-      "description": "不管你做什么方向，这 10 个装了不亏。",
-      "items": [],
-      "title": "必装 Top 10"
-    },
-    {
-      "description": "让 AI 出的设计不再有「模板感」。",
-      "items": [],
-      "title": "设计 / UI"
-    },
-    {
-      "description": "组件库、框架支持、开发效率。",
-      "items": [],
-      "title": "前端开发"
-    },
-    {
-      "description": "让页面动起来，或者直接生成视频。",
-      "items": [],
-      "title": "动效 / 视频"
-    },
-    {
-      "description": "从 SEO 审查到文案撰写到定价策略。",
-      "items": [],
-      "title": "营销 / SEO"
-    },
-    {
-      "description": "代码审查、测试、调试。",
-      "items": [],
-      "title": "代码质量"
-    },
-    {
-      "description": "改变 Claude Code 的工作方式。",
-      "items": [],
-      "title": "工作流 / 方法论"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "无障碍"
-    },
-    {
-      "description": "不知道该装什么？先看这些合集。",
-      "items": [],
-      "title": "合集 / 导航站"
-    },
-    {
-      "description": "装太多 Skill 反而会让 Claude Code 变慢或行为混乱。建议：\n第一步：装 3 个基础 Skill\n第二步：按你的方向加 1-2 个\n第三步：用 Find Skills 让 Agent 自己找\n装完之后 Claude 遇到新需求会自动搜索和安装合适的 Skill。",
-      "items": [],
-      "title": "怎么选 Skill"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -60,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1209269607,
             "language": null,
             "last_commit": "2026-04-13T09:34:10Z",
             "owner": "helloianneo",
@@ -74,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197795221,
             "language": null,
             "last_commit": "2026-04-01T00:24:10Z",
             "owner": "helloianneo",
@@ -83,16 +35,12 @@
         }
       ],
       "title": "其他资源"
-    },
-    {
-      "description": "MIT",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:58:33.229Z",
+    "last_updated": "2026-08-19T12:19:06.700Z",
     "original_repository": "helloianneo/awesome-claude-code-skills",
+    "original_repository_id": 1209586916,
     "original_repository_sha": "37cf1a830b904f9fd2b995455f3b00fdae17bdc0",
     "enhanced_repository": "enhansome/enhansome-claude-code-skills",
     "enhanced_repository_description": null,
