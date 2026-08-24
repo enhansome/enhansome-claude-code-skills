@@ -1,6 +1,483 @@
 {
   "items": [
     {
+      "description": "不管你做什么方向，这 10 个装了不亏。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1",
+          "description": "Frontend Design Anthropic 官方出品，让 UI 不像 AI 生成的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "6",
+          "description": "Superpowers obra TDD / 并行 Agent / 代码审查 / Git 工作流",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "7",
+          "description": "shadcn/ui shadcn 官方组件管理 + 表单 + 预览",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585146387,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:02:53Z",
+            "owner": "shadcn-ui",
+            "repo": "ui",
+            "stars": 121989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "8",
+          "description": "Remotion Remotion React 驱动的视频生成，30+ 规则",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137388347,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:18:26Z",
+            "owner": "remotion-dev",
+            "repo": "skills",
+            "stars": 4397
+          }
+        }
+      ],
+      "title": "必装 Top 10"
+    },
+    {
+      "description": "让 AI 出的设计不再有「模板感」。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frontend Design",
+          "description": "Anthropic 必装 官方设计系统哲学，大胆配色 + 有辨识度的字体 + 有意图的动效",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figma Designer",
+          "description": "Anthropic 好用 Claude 进入 Figma 高级设计师思维模式",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theme Factory",
+          "description": "Anthropic 好用 10 套配色 + 字体主题，套用到任意 artifact",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brand Guidelines",
+          "description": "Anthropic 好用 Anthropic 官方品牌规范（色 / 字 / 视觉）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Canvas Design",
+          "description": "Anthropic 好用 生成海报 / 插画，输出 PNG / PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937253475,
+            "language": "Python",
+            "last_commit": "2026-08-23T00:52:16Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 142839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design.md Generator",
+          "description": "Google Labs 好用 分析项目 → 自动生成 DESIGN.md 设计规范",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135847870,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T20:20:23Z",
+            "owner": "google-labs-code",
+            "repo": "stitch-skills",
+            "stars": 8167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainstorming",
+          "description": "obra 强推 验证设计方案后才允许写代码，防止 AI 乱写",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        }
+      ],
+      "title": "设计 / UI"
+    },
+    {
+      "description": "组件库、框架支持、开发效率。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shadcn/ui",
+          "description": "shadcn 必装 官方组件管理 + 表单 + 预览",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585146387,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:02:53Z",
+            "owner": "shadcn-ui",
+            "repo": "ui",
+            "stars": 121989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Best Practices",
+          "description": "Vercel Labs 强推 45 条 React/Next.js 性能优化规则",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112540808,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T18:55:51Z",
+            "owner": "vercel-labs",
+            "repo": "agent-skills",
+            "stars": 30411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ralph Loop",
+          "description": "Frank Bria 好用 多小时自主编码 Agent，适合长任务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045721921,
+            "language": "Shell",
+            "last_commit": "2026-07-18T02:33:21Z",
+            "owner": "frankbria",
+            "repo": "ralph-claude-code",
+            "stars": 9607
+          }
+        }
+      ],
+      "title": "前端开发"
+    },
+    {
+      "description": "让页面动起来，或者直接生成视频。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Remotion",
+          "description": "Remotion 必装 React 驱动的视频生成，30+ 规则，3D / 图表 / 参数化内容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137388347,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:18:26Z",
+            "owner": "remotion-dev",
+            "repo": "skills",
+            "stars": 4397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Video Generation",
+          "description": "inference.sh 好用 40+ AI 视频模型（Veo / Wan / Grok）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146509126,
+            "language": "Shell",
+            "last_commit": "2026-08-03T15:41:46Z",
+            "owner": "inference-sh",
+            "repo": "skills",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nano Banana 2",
+          "description": "inference.sh 好用 Gemini 文字转图 / 图片编辑，4K 输出",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146509126,
+            "language": "Shell",
+            "last_commit": "2026-08-03T15:41:46Z",
+            "owner": "inference-sh",
+            "repo": "skills",
+            "stars": 708
+          }
+        }
+      ],
+      "title": "动效 / 视频"
+    },
+    {
+      "description": "从 SEO 审查到文案撰写到定价策略。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SEO Audit",
+          "description": "Corey Haines 强推 五优先级 SEO 全面审查框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135212071,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:08:07Z",
+            "owner": "coreyhaines31",
+            "repo": "marketingskills",
+            "stars": 45435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copywriting",
+          "description": "Corey Haines 强推 主页 / 落地页 / 定价页转化文案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135212071,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:08:07Z",
+            "owner": "coreyhaines31",
+            "repo": "marketingskills",
+            "stars": 45435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Product Marketing Context",
+          "description": "Corey Haines 好用 产品定位 / 人群 / 竞品 / 品牌声音",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135212071,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:08:07Z",
+            "owner": "coreyhaines31",
+            "repo": "marketingskills",
+            "stars": 45435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pricing Strategy",
+          "description": "Corey Haines 好用 SaaS 定价设计与竞品对比框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1135212071,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T22:08:07Z",
+            "owner": "coreyhaines31",
+            "repo": "marketingskills",
+            "stars": 45435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Automation",
+          "description": "inference.sh 可选 推文 / 点赞 / 转推 / DM，9 个命令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146509126,
+            "language": "Shell",
+            "last_commit": "2026-08-03T15:41:46Z",
+            "owner": "inference-sh",
+            "repo": "skills",
+            "stars": 708
+          }
+        }
+      ],
+      "title": "营销 / SEO"
+    },
+    {
+      "description": "改变 Claude Code 的工作方式。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Superpowers - TDD",
+          "description": "obra 必装 强制测试驱动开发：写测试 → 实现 → 重构",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superpowers - Parallel Agents",
+          "description": "obra 强推 多个子 Agent 并行执行独立任务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superpowers - Plan Mode",
+          "description": "obra 强推 先规划再执行，防止 AI 乱改代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superpowers - Git Worktrees",
+          "description": "obra 好用 隔离工作区，不影响主分支",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224795,
+            "language": "Shell",
+            "last_commit": "2026-08-19T17:33:23Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 276923
+          }
+        }
+      ],
+      "title": "工作流 / 方法论"
+    },
+    {
+      "description": "不知道该装什么？先看这些合集。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Agent Skills",
+          "description": "VoltAgent 维护，549+ skills，分类最全 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1084853233,
+            "language": null,
+            "last_commit": "2026-08-24T06:19:36Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-agent-skills",
+            "stars": 31661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Claude Code Toolkit",
+          "description": "Rohit Ghumare 维护，135 agents + 35 skills GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150071903,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T07:18:34Z",
+            "owner": "rohitg00",
+            "repo": "awesome-claude-code-toolkit",
+            "stars": 2546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Claude Code",
+          "description": "hesreallyhim 维护，skills + hooks + 命令 GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969302809,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:09:28Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52911
+          }
+        }
+      ],
+      "title": "合集 / 导航站"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -15,7 +492,7 @@
             "last_commit": "2026-04-13T09:34:10Z",
             "owner": "helloianneo",
             "repo": "obsidian-ai-second-brain",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -38,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:14:18.044Z",
+    "last_updated": "2026-08-24T14:25:09.824Z",
     "original_repository": "helloianneo/awesome-claude-code-skills",
     "original_repository_id": 1209586916,
     "original_repository_sha": "37cf1a830b904f9fd2b995455f3b00fdae17bdc0",
