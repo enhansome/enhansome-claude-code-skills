@@ -5,23 +5,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1",
-          "description": "Frontend Design Anthropic 官方出品，让 UI 不像 AI 生成的",
+          "title": "Frontend Design",
+          "description": "Anthropic 官方出品，让 UI 不像 AI 生成的",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
           "node_type": "item",
-          "title": "6",
-          "description": "Superpowers obra TDD / 并行 Agent / 代码审查 / Git 工作流",
+          "title": "Superpowers",
+          "description": "obra TDD / 并行 Agent / 代码审查 / Git 工作流",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,28 +30,28 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         },
         {
           "node_type": "item",
-          "title": "7",
-          "description": "shadcn/ui shadcn 官方组件管理 + 表单 + 预览",
+          "title": "shadcn/ui",
+          "description": "shadcn 官方组件管理 + 表单 + 预览",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 585146387,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:53Z",
+            "last_commit": "2026-08-24T19:23:00Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121989
+            "stars": 122038
           }
         },
         {
           "node_type": "item",
-          "title": "8",
-          "description": "Remotion Remotion React 驱动的视频生成，30+ 规则",
+          "title": "Remotion",
+          "description": "Remotion React 驱动的视频生成，30+ 规则",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T06:18:26Z",
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4397
+            "stars": 4402
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-23T00:52:16Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142839
+            "stars": 142914
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-17T20:20:23Z",
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8167
+            "stars": 8174
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         }
       ],
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 585146387,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:02:53Z",
+            "last_commit": "2026-08-24T19:23:00Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121989
+            "stars": 122038
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-21T18:55:51Z",
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 30411
+            "stars": 30422
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-07-18T02:33:21Z",
             "owner": "frankbria",
             "repo": "ralph-claude-code",
-            "stars": 9607
+            "stars": 9608
           }
         }
       ],
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-24T06:18:26Z",
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4397
+            "stars": 4402
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 708
+            "stars": 709
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 708
+            "stars": 709
           }
         }
       ],
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 1135212071,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:08:07Z",
+            "last_commit": "2026-08-24T19:30:37Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45435
+            "stars": 45518
           }
         },
         {
@@ -306,10 +306,10 @@
             "archived": false,
             "id": 1135212071,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:08:07Z",
+            "last_commit": "2026-08-24T19:30:37Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45435
+            "stars": 45518
           }
         },
         {
@@ -321,10 +321,10 @@
             "archived": false,
             "id": 1135212071,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:08:07Z",
+            "last_commit": "2026-08-24T19:30:37Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45435
+            "stars": 45518
           }
         },
         {
@@ -336,10 +336,10 @@
             "archived": false,
             "id": 1135212071,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T22:08:07Z",
+            "last_commit": "2026-08-24T19:30:37Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45435
+            "stars": 45518
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 708
+            "stars": 709
           }
         }
       ],
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 276923
+            "stars": 277202
           }
         }
       ],
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-24T06:19:36Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 31661
+            "stars": 32033
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-05-12T07:18:34Z",
             "owner": "rohitg00",
             "repo": "awesome-claude-code-toolkit",
-            "stars": 2546
+            "stars": 2548
           }
         },
         {
@@ -468,10 +468,10 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-24T12:09:28Z",
+            "last_commit": "2026-08-25T06:10:02Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52911
+            "stars": 52942
           }
         }
       ],
@@ -507,7 +507,7 @@
             "last_commit": "2026-04-01T00:24:10Z",
             "owner": "helloianneo",
             "repo": "claude-code-handbook",
-            "stars": 208
+            "stars": 207
           }
         }
       ],
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:25:09.824Z",
+    "last_updated": "2026-08-25T06:15:59.276Z",
     "original_repository": "helloianneo/awesome-claude-code-skills",
     "original_repository_id": 1209586916,
     "original_repository_sha": "37cf1a830b904f9fd2b995455f3b00fdae17bdc0",
