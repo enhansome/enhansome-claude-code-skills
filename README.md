@@ -53,14 +53,14 @@ npx skills list
 
 | #  | Skill                                                                                                                                                   | 作者                 | 一句话                             | 安装                                                                  |
 | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------- | ------------------------------------------------------------------- |
-| 1  | [**Frontend Design**](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25 | Anthropic          | 官方出品，让 UI 不像 AI 生成的             | `npx skills add anthropics/skills@frontend-design`                  |
+| 1  | [**Frontend Design**](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26 | Anthropic          | 官方出品，让 UI 不像 AI 生成的             | `npx skills add anthropics/skills@frontend-design`                  |
 | 2  | [**Context7**](https://skills.sh/context7/skills/context7)                                                                                              | intellectronica    | 上下文窗口内实时拉 API 文档，不用再贴链接         | `npx skills add intellectronica/agent-skills@context7`              |
 | 3  | [**Web Design Guidelines**](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines)                                                           | Vercel Labs        | 对照 100+ 最佳实践审查你的 UI             | `npx skills add vercel-labs/agent-skills@web-design-guidelines`     |
 | 4  | [**UI-UX-Pro-Max**](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max)                                                               | Next Level Builder | 视觉层级 x 色彩心理学 x 交互模式             | `npx skills add nextlevelbuilder/ui-ux-pro-max-skill@ui-ux-pro-max` |
 | 5  | [**Emil Kowalski's Skill**](https://skills.sh/emilkowalski/skill)                                                                                       | Emil Kowalski      | 设计 + 动效 + 代码 + 性能，全栈审美          | `npx skills add emilkowalski/skill`                                 |
-| 6  | [**Superpowers**](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19                                                 | obra               | TDD / 并行 Agent / 代码审查 / Git 工作流 | `npx skills add obra/superpowers`                                   |
-| 7  | [**shadcn/ui**](https://github.com/shadcn/ui) ⭐ 122,141 \| 🐛 2,330 \| 🌐 TypeScript \| 📅 2026-08-26                                                   | shadcn             | 官方组件管理 + 表单 + 预览                | `npx skills add shadcn/ui@shadcn`                                   |
-| 8  | [**Remotion**](https://github.com/remotion-dev/skills) ⭐ 4,410 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-08-25                                               | Remotion           | React 驱动的视频生成，30+ 规则            | `npx skills add remotion-dev/skills@remotion-best-practices`        |
+| 6  | [**Superpowers**](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19                                                 | obra               | TDD / 并行 Agent / 代码审查 / Git 工作流 | `npx skills add obra/superpowers`                                   |
+| 7  | [**shadcn/ui**](https://github.com/shadcn/ui) ⭐ 122,254 \| 🐛 2,240 \| 🌐 TypeScript \| 📅 2026-08-26                                                   | shadcn             | 官方组件管理 + 表单 + 预览                | `npx skills add shadcn/ui@shadcn`                                   |
+| 8  | [**Remotion**](https://github.com/remotion-dev/skills) ⭐ 4,414 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-08-26                                               | Remotion           | React 驱动的视频生成，30+ 规则            | `npx skills add remotion-dev/skills@remotion-best-practices`        |
 | 9  | [**Tailwind CSS**](https://skills.sh/hairyf/skills/tailwindcss)                                                                                         | hairyf             | Tailwind v4 完整支持                | `npx skills add hairyf/skills@tailwindcss`                          |
 | 10 | [**Find Skills**](https://skills.sh/vercel-labs/skills/find-skills)                                                                                     | Vercel Labs        | 让 Agent 自己发现和安装新 Skill          | `npx skills add vercel-labs/skills@find-skills`                     |
 
@@ -72,19 +72,19 @@ npx skills list
 
 | Skill                                                                                                                                               | 作者                 | 推荐 | 一句话                                | 安装                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | -- | ---------------------------------- | ------------------------------------------------------------------- |
-| [Frontend Design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25 | Anthropic          | 必装 | 官方设计系统哲学，大胆配色 + 有辨识度的字体 + 有意图的动效   | `npx skills add anthropics/skills@frontend-design`                  |
+| [Frontend Design](https://github.com/anthropics/claude-code/tree/main/plugins/frontend-design) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26 | Anthropic          | 必装 | 官方设计系统哲学，大胆配色 + 有辨识度的字体 + 有意图的动效   | `npx skills add anthropics/skills@frontend-design`                  |
 | [UI-UX-Pro-Max](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max)                                                               | Next Level Builder | 必装 | 视觉层级 x 色彩心理学 x 交互模式，出图质量显著提升       | `npx skills add nextlevelbuilder/ui-ux-pro-max-skill@ui-ux-pro-max` |
 | [Emil Kowalski's Skill](https://skills.sh/emilkowalski/skill)                                                                                       | Emil Kowalski      | 必装 | 来自 Sonner / Vaul 作者的设计 + 动效 + 代码实践 | `npx skills add emilkowalski/skill`                                 |
 | [Web Design Guidelines](https://skills.sh/vercel-labs/agent-skills/web-design-guidelines)                                                           | Vercel Labs        | 必装 | 对照 100+ 最佳实践审查 UI，找出细节问题           | `npx skills add vercel-labs/agent-skills@web-design-guidelines`     |
 | [Make Interfaces Feel Better](https://skills.sh/jakubkrehel/make-interfaces-feel-better)                                                            | Jakub Krehel       | 强推 | 对齐 / 阴影 / 间距 / 圆角的细节打磨             | `npx skills add jakubkrehel/make-interfaces-feel-better`            |
-| [Figma Designer](https://github.com/anthropics/claude-code) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25                                    | Anthropic          | 好用 | Claude 进入 Figma 高级设计师思维模式          | `npx claude skills add figma`                                       |
-| [Theme Factory](https://github.com/anthropics/claude-code) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25                                     | Anthropic          | 好用 | 10 套配色 + 字体主题，套用到任意 artifact       | `npx claude skills add theme-factory`                               |
-| [Brand Guidelines](https://github.com/anthropics/claude-code) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25                                  | Anthropic          | 好用 | Anthropic 官方品牌规范（色 / 字 / 视觉）       | `npx claude skills add brand-guidelines`                            |
-| [Canvas Design](https://github.com/anthropics/claude-code) ⭐ 143,034 \| 🐛 14,948 \| 🌐 Python \| 📅 2026-08-25                                     | Anthropic          | 好用 | 生成海报 / 插画，输出 PNG / PDF             | `npx claude skills add canvas-design`                               |
+| [Figma Designer](https://github.com/anthropics/claude-code) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26                                    | Anthropic          | 好用 | Claude 进入 Figma 高级设计师思维模式          | `npx claude skills add figma`                                       |
+| [Theme Factory](https://github.com/anthropics/claude-code) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26                                     | Anthropic          | 好用 | 10 套配色 + 字体主题，套用到任意 artifact       | `npx claude skills add theme-factory`                               |
+| [Brand Guidelines](https://github.com/anthropics/claude-code) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26                                  | Anthropic          | 好用 | Anthropic 官方品牌规范（色 / 字 / 视觉）       | `npx claude skills add brand-guidelines`                            |
+| [Canvas Design](https://github.com/anthropics/claude-code) ⭐ 143,151 \| 🐛 15,150 \| 🌐 Python \| 📅 2026-08-26                                     | Anthropic          | 好用 | 生成海报 / 插画，输出 PNG / PDF             | `npx claude skills add canvas-design`                               |
 | [SuperKit UI/UX](https://skillsmp.com/skills/pixel-process-ug-superkit-agents-templates-skills-ui-ux-pro-max-skill-md)                              | Pixel Process UG   | 好用 | 50+ 风格 / 97 色板 / 57 字体配对           | `npx skills add Pixel-Process-UG/superkit-agents`                   |
 | [TypeUI Design Skills](https://www.typeui.sh/design-skills)                                                                                         | TypeUI             | 可选 | 手工 skill 文件，复现特定视觉风格               | `npx typeui.sh pull [name]`                                         |
-| [Design.md Generator](https://github.com/google-labs-code/stitch-skills) ⭐ 8,186 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-08-17                         | Google Labs        | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范         | `npx skills add google-labs-code/stitch-skills@design-md`           |
-| [Brainstorming](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19                                               | obra               | 强推 | 验证设计方案后才允许写代码，防止 AI 乱写             | `npx skills add obra/superpowers@brainstorming`                     |
+| [Design.md Generator](https://github.com/google-labs-code/stitch-skills) ⭐ 8,192 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-08-17                         | Google Labs        | 好用 | 分析项目 → 自动生成 DESIGN.md 设计规范         | `npx skills add google-labs-code/stitch-skills@design-md`           |
+| [Brainstorming](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19                                               | obra               | 强推 | 验证设计方案后才允许写代码，防止 AI 乱写             | `npx skills add obra/superpowers@brainstorming`                     |
 
 ***
 
@@ -94,13 +94,13 @@ npx skills list
 
 | Skill                                                                                                                    | 作者              | 推荐 | 一句话                       | 安装                                                             |
 | ------------------------------------------------------------------------------------------------------------------------ | --------------- | -- | ------------------------- | -------------------------------------------------------------- |
-| [shadcn/ui](https://github.com/shadcn/ui) ⭐ 122,141 \| 🐛 2,330 \| 🌐 TypeScript \| 📅 2026-08-26                        | shadcn          | 必装 | 官方组件管理 + 表单 + 预览          | `npx skills add shadcn/ui@shadcn`                              |
+| [shadcn/ui](https://github.com/shadcn/ui) ⭐ 122,254 \| 🐛 2,240 \| 🌐 TypeScript \| 📅 2026-08-26                        | shadcn          | 必装 | 官方组件管理 + 表单 + 预览          | `npx skills add shadcn/ui@shadcn`                              |
 | [Context7](https://skills.sh/context7/skills/context7)                                                                   | intellectronica | 必装 | 上下文窗口内实时拉准确 API 文档        | `npx skills add intellectronica/agent-skills@context7`         |
 | [Tailwind CSS](https://skills.sh/hairyf/skills/tailwindcss)                                                              | hairyf          | 必装 | Tailwind CSS v4 完整支持      | `npx skills add hairyf/skills@tailwindcss`                     |
 | [Tailwind Design System](https://skills.sh/wshobson/agents/tailwind-design-system)                                       | WS Hobson       | 强推 | CSS-first 设计系统 + OKLCH 色彩 | `npx skills add wshobson/agents@tailwind-design-system`        |
 | [Find Skills](https://skills.sh/vercel-labs/skills/find-skills)                                                          | Vercel Labs     | 强推 | 让 Agent 自己发现和安装新 Skill    | `npx skills add vercel-labs/skills@find-skills`                |
-| [React Best Practices](https://github.com/vercel-labs/agent-skills) ⭐ 30,479 \| 🐛 172 \| 🌐 JavaScript \| 📅 2026-08-21 | Vercel Labs     | 强推 | 45 条 React/Next.js 性能优化规则 | `npx skills add vercel-labs/agent-skills@react-best-practices` |
-| [Ralph Loop](https://github.com/frankbria/ralph-claude-code) ⭐ 9,607 \| 🐛 33 \| 🌐 Shell \| 📅 2026-07-18               | Frank Bria      | 好用 | 多小时自主编码 Agent，适合长任务       | `npx skills add frankbria/ralph-claude-code`                   |
+| [React Best Practices](https://github.com/vercel-labs/agent-skills) ⭐ 30,520 \| 🐛 173 \| 🌐 JavaScript \| 📅 2026-08-26 | Vercel Labs     | 强推 | 45 条 React/Next.js 性能优化规则 | `npx skills add vercel-labs/agent-skills@react-best-practices` |
+| [Ralph Loop](https://github.com/frankbria/ralph-claude-code) ⭐ 9,609 \| 🐛 33 \| 🌐 Shell \| 📅 2026-07-18               | Frank Bria      | 好用 | 多小时自主编码 Agent，适合长任务       | `npx skills add frankbria/ralph-claude-code`                   |
 
 ***
 
@@ -110,11 +110,11 @@ npx skills list
 
 | Skill                                                                                                     | 作者           | 推荐 | 一句话                                  | 安装                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ------------ | -- | ------------------------------------ | -------------------------------------------------------------------------- |
-| [Remotion](https://github.com/remotion-dev/skills) ⭐ 4,410 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-08-25     | Remotion     | 必装 | React 驱动的视频生成，30+ 规则，3D / 图表 / 参数化内容 | `npx skills add remotion-dev/skills@remotion-best-practices`               |
+| [Remotion](https://github.com/remotion-dev/skills) ⭐ 4,414 \| 🐛 21 \| 🌐 TypeScript \| 📅 2026-08-26     | Remotion     | 必装 | React 驱动的视频生成，30+ 规则，3D / 图表 / 参数化内容 | `npx skills add remotion-dev/skills@remotion-best-practices`               |
 | [Motion (Framer Motion)](https://skills.sh/jezweb/claude-skills/motion)                                   | Jezweb       | 强推 | React 动画：手势 / 滚动 / 弹性 / 布局           | `npx skills add jezweb/claude-skills@motion`                               |
 | [Animation Systems](https://lobehub.com/skills/guilhermemarketing-gui-marketing-skills-animation-systems) | Guilherme    | 强推 | Stripe / Linear / Apple 级别网页动效       | `npx skills add guilhermemarketing/gui-marketing-skills@animation-systems` |
-| [AI Video Generation](https://github.com/inferen-sh/skills) ⭐ 711 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03    | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok）        | `npx skills add inferen-sh/skills@ai-video-generation`                     |
-| [Nano Banana 2](https://github.com/inferen-sh/skills) ⭐ 711 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03          | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出             | `npx skills add inferen-sh/skills@nano-banana-2`                           |
+| [AI Video Generation](https://github.com/inferen-sh/skills) ⭐ 712 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03    | inference.sh | 好用 | 40+ AI 视频模型（Veo / Wan / Grok）        | `npx skills add inferen-sh/skills@ai-video-generation`                     |
+| [Nano Banana 2](https://github.com/inferen-sh/skills) ⭐ 712 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03          | inference.sh | 好用 | Gemini 文字转图 / 图片编辑，4K 输出             | `npx skills add inferen-sh/skills@nano-banana-2`                           |
 
 ***
 
@@ -124,11 +124,11 @@ npx skills list
 
 | Skill                                                                                                                              | 作者           | 推荐 | 一句话                     | 安装                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------ | -- | ----------------------- | ------------------------------------------------------------------------ |
-| [SEO Audit](https://github.com/coreyhaines31/marketingskills) ⭐ 45,653 \| 🐛 105 \| 🌐 JavaScript \| 📅 2026-08-24                 | Corey Haines | 强推 | 五优先级 SEO 全面审查框架         | `npx skills add coreyhaines31/marketingskills@seo-audit`                 |
-| [Copywriting](https://github.com/coreyhaines31/marketingskills) ⭐ 45,653 \| 🐛 105 \| 🌐 JavaScript \| 📅 2026-08-24               | Corey Haines | 强推 | 主页 / 落地页 / 定价页转化文案      | `npx skills add coreyhaines31/marketingskills@copywriting`               |
-| [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) ⭐ 45,653 \| 🐛 105 \| 🌐 JavaScript \| 📅 2026-08-24 | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音   | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
-| [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) ⭐ 45,653 \| 🐛 105 \| 🌐 JavaScript \| 📅 2026-08-24          | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架        | `npx skills add coreyhaines31/marketingskills@pricing-strategy`          |
-| [Twitter Automation](https://github.com/inferen-sh/skills) ⭐ 711 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03                              | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation`                    |
+| [SEO Audit](https://github.com/coreyhaines31/marketingskills) ⭐ 45,826 \| 🐛 104 \| 🌐 JavaScript \| 📅 2026-08-27                 | Corey Haines | 强推 | 五优先级 SEO 全面审查框架         | `npx skills add coreyhaines31/marketingskills@seo-audit`                 |
+| [Copywriting](https://github.com/coreyhaines31/marketingskills) ⭐ 45,826 \| 🐛 104 \| 🌐 JavaScript \| 📅 2026-08-27               | Corey Haines | 强推 | 主页 / 落地页 / 定价页转化文案      | `npx skills add coreyhaines31/marketingskills@copywriting`               |
+| [Product Marketing Context](https://github.com/coreyhaines31/marketingskills) ⭐ 45,826 \| 🐛 104 \| 🌐 JavaScript \| 📅 2026-08-27 | Corey Haines | 好用 | 产品定位 / 人群 / 竞品 / 品牌声音   | `npx skills add coreyhaines31/marketingskills@product-marketing-context` |
+| [Pricing Strategy](https://github.com/coreyhaines31/marketingskills) ⭐ 45,826 \| 🐛 104 \| 🌐 JavaScript \| 📅 2026-08-27          | Corey Haines | 好用 | SaaS 定价设计与竞品对比框架        | `npx skills add coreyhaines31/marketingskills@pricing-strategy`          |
+| [Twitter Automation](https://github.com/inferen-sh/skills) ⭐ 712 \| 🐛 2 \| 🌐 Shell \| 📅 2026-08-03                              | inference.sh | 可选 | 推文 / 点赞 / 转推 / DM，9 个命令 | `npx skills add inferen-sh/skills@twitter-automation`                    |
 
 ***
 
@@ -138,7 +138,7 @@ npx skills list
 
 | Skill                                                                                               | 作者        | 推荐 | 一句话                                  | 安装                                                        |
 | --------------------------------------------------------------------------------------------------- | --------- | -- | ------------------------------------ | --------------------------------------------------------- |
-| [Superpowers](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19 | obra      | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers`                         |
+| [Superpowers](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19 | obra      | 必装 | TDD / 并行 Agent / 代码审查 / Git 工作流，一套全有 | `npx skills add obra/superpowers`                         |
 | [Code Review](https://skills.sh/supercent-io/skills-template/code-review)                           | Supercent | 强推 | 自动代码审查（注释 / 测试 / 类型 / 质量）            | `npx skills add supercent-io/skills-template@code-review` |
 
 ***
@@ -149,10 +149,10 @@ npx skills list
 
 | Skill                                                                                                                 | 作者   | 推荐 | 一句话                    | 安装                                                            |
 | --------------------------------------------------------------------------------------------------------------------- | ---- | -- | ---------------------- | ------------------------------------------------------------- |
-| [Superpowers - TDD](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19             | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development`     |
-| [Superpowers - Parallel Agents](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19 | obra | 强推 | 多个子 Agent 并行执行独立任务     | `npx skills add obra/superpowers@dispatching-parallel-agents` |
-| [Superpowers - Plan Mode](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19       | obra | 强推 | 先规划再执行，防止 AI 乱改代码      | `npx skills add obra/superpowers@writing-plans`               |
-| [Superpowers - Git Worktrees](https://github.com/obra/superpowers) ⭐ 277,691 \| 🐛 316 \| 🌐 Shell \| 📅 2026-08-19   | obra | 好用 | 隔离工作区，不影响主分支           | `npx skills add obra/superpowers@using-git-worktrees`         |
+| [Superpowers - TDD](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19             | obra | 必装 | 强制测试驱动开发：写测试 → 实现 → 重构 | `npx skills add obra/superpowers@test-driven-development`     |
+| [Superpowers - Parallel Agents](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19 | obra | 强推 | 多个子 Agent 并行执行独立任务     | `npx skills add obra/superpowers@dispatching-parallel-agents` |
+| [Superpowers - Plan Mode](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19       | obra | 强推 | 先规划再执行，防止 AI 乱改代码      | `npx skills add obra/superpowers@writing-plans`               |
+| [Superpowers - Git Worktrees](https://github.com/obra/superpowers) ⭐ 278,380 \| 🐛 322 \| 🌐 Shell \| 📅 2026-08-19   | obra | 好用 | 隔离工作区，不影响主分支           | `npx skills add obra/superpowers@using-git-worktrees`         |
 
 ***
 
@@ -170,9 +170,9 @@ npx skills list
 
 | 资源                              | 说明                                      | 链接                                                                                                                    |
 | ------------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Awesome Agent Skills**        | VoltAgent 维护，549+ skills，分类最全           | [GitHub](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 32,332 \| 🐛 12 \| 📅 2026-08-25                        |
-| **Awesome Claude Code Toolkit** | Rohit Ghumare 维护，135 agents + 35 skills | [GitHub](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,552 \| 🐛 294 \| 🌐 JavaScript \| 📅 2026-05-12 |
-| **Awesome Claude Code**         | hesreallyhim 维护，skills + hooks + 命令     | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 52,996 \| 🐛 932 \| 🌐 Python \| 📅 2026-08-26        |
+| **Awesome Agent Skills**        | VoltAgent 维护，549+ skills，分类最全           | [GitHub](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 32,878 \| 🐛 14 \| 📅 2026-08-26                        |
+| **Awesome Claude Code Toolkit** | Rohit Ghumare 维护，135 agents + 35 skills | [GitHub](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,556 \| 🐛 292 \| 🌐 JavaScript \| 📅 2026-05-12 |
+| **Awesome Claude Code**         | hesreallyhim 维护，skills + hooks + 命令     | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 53,066 \| 🐛 934 \| 🌐 Python \| 📅 2026-08-27        |
 | **skills.sh**                   | Vercel 出的 Skill 包管理器和浏览站                | [skills.sh](https://skills.sh)                                                                                        |
 | **LobeHub Skills**              | 232+ skills 的可视化浏览                      | [lobehub.com/skills](https://lobehub.com/skills)                                                                      |
 | **hotkeys.design**              | 设计师向的 Skill 导航站                         | [hotkeys.design](https://hotkeys.design)                                                                              |
@@ -233,14 +233,14 @@ npx skills add vercel-labs/skills@find-skills
 
 ## 其他资源
 
-* [obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) ⭐ 238 | 🐛 1 | 📅 2026-04-13 — Obsidian + Claude AI 个人知识库搭建指南
+* [obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) ⭐ 240 | 🐛 1 | 📅 2026-04-13 — Obsidian + Claude AI 个人知识库搭建指南
 * [claude-code-handbook](https://github.com/helloianneo/claude-code-handbook) ⭐ 207 | 🐛 0 | 📅 2026-04-01 — Claude Code 高阶使用手册
 
 ***
 
 ## 贡献
 
-发现好用的 Skill 但这里没收？欢迎提 [Issue](https://github.com/helloianneo/awesome-claude-code-skills/issues) ⭐ 447 | 🐛 57 | 📅 2026-04-13 或 PR。
+发现好用的 Skill 但这里没收？欢迎提 [Issue](https://github.com/helloianneo/awesome-claude-code-skills/issues) ⭐ 449 | 🐛 56 | 📅 2026-04-13 或 PR。
 
 收录标准：
 
@@ -258,4 +258,4 @@ npx skills add vercel-labs/skills@find-skills
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
