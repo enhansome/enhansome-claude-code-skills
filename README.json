@@ -12,11 +12,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-26T06:28:13Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122294
-          }
+            "stars": 122404
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-26T16:35:35Z",
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4416
-          }
+            "stars": 4424
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "必装 Top 10"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -138,11 +146,12 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-26T23:06:39Z",
+            "last_commit": "2026-08-28T18:19:32Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143181
-          }
+            "stars": 143288
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-08-17T20:20:23Z",
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8196
-          }
+            "stars": 8209
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "设计 / UI"
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-26T06:28:13Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122294
-          }
+            "stars": 122404
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -204,11 +216,12 @@
             "archived": false,
             "id": 1112540808,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T12:18:46Z",
+            "last_commit": "2026-08-28T13:36:31Z",
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 30530
-          }
+            "stars": 30586
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -222,8 +235,9 @@
             "last_commit": "2026-07-18T02:33:21Z",
             "owner": "frankbria",
             "repo": "ralph-claude-code",
-            "stars": 9610
-          }
+            "stars": 9611
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "前端开发"
@@ -243,8 +257,9 @@
             "last_commit": "2026-08-26T16:35:35Z",
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4416
-          }
+            "stars": 4424
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 713
-          }
+            "stars": 714
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 713
-          }
+            "stars": 714
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "动效 / 视频"
@@ -294,8 +311,9 @@
             "last_commit": "2026-08-27T00:05:43Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45851
-          }
+            "stars": 45973
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -309,8 +327,9 @@
             "last_commit": "2026-08-27T00:05:43Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45851
-          }
+            "stars": 45973
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -324,8 +343,9 @@
             "last_commit": "2026-08-27T00:05:43Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45851
-          }
+            "stars": 45973
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -339,8 +359,9 @@
             "last_commit": "2026-08-27T00:05:43Z",
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 45851
-          }
+            "stars": 45973
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -354,8 +375,9 @@
             "last_commit": "2026-08-03T15:41:46Z",
             "owner": "inference-sh",
             "repo": "skills",
-            "stars": 713
-          }
+            "stars": 714
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "营销 / SEO"
@@ -375,8 +397,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -390,8 +413,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -405,8 +429,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -420,8 +445,9 @@
             "last_commit": "2026-08-19T17:33:23Z",
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 278547
-          }
+            "stars": 278985
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "工作流 / 方法论"
@@ -441,8 +467,9 @@
             "last_commit": "2026-08-26T12:15:01Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 32897
-          }
+            "stars": 33019
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -456,8 +483,9 @@
             "last_commit": "2026-05-12T07:18:34Z",
             "owner": "rohitg00",
             "repo": "awesome-claude-code-toolkit",
-            "stars": 2556
-          }
+            "stars": 2561
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -468,11 +496,12 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-27T15:43:04Z",
+            "last_commit": "2026-08-28T16:08:58Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53084
-          }
+            "stars": 53131
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "合集 / 导航站"
@@ -492,8 +521,9 @@
             "last_commit": "2026-04-13T09:34:10Z",
             "owner": "helloianneo",
             "repo": "obsidian-ai-second-brain",
-            "stars": 240
-          }
+            "stars": 244
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         },
         {
           "node_type": "item",
@@ -507,15 +537,16 @@
             "last_commit": "2026-04-01T00:24:10Z",
             "owner": "helloianneo",
             "repo": "claude-code-handbook",
-            "stars": 207
-          }
+            "stars": 208
+          },
+          "first_seen": "2026-08-28T18:33:09.543Z"
         }
       ],
       "title": "其他资源"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:34:41.435Z",
+    "last_updated": "2026-08-28T18:33:09.543Z",
     "original_repository_info": {
       "archived": false,
       "id": 1209586916,
@@ -523,7 +554,7 @@
       "last_commit": "2026-04-13T15:47:12Z",
       "owner": "helloianneo",
       "repo": "awesome-claude-code-skills",
-      "stars": 449
+      "stars": 451
     },
     "original_repository_sha": "37cf1a830b904f9fd2b995455f3b00fdae17bdc0",
     "enhanced_repository": "enhansome/enhansome-claude-code-skills",
