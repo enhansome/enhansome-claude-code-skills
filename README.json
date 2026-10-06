@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -37,10 +37,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -66,11 +66,11 @@
             "id": 585146387,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:21:53Z",
-            "open_issues": 1812,
+            "last_commit": "2026-10-06T12:45:11Z",
+            "open_issues": 1774,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125191,
+            "stars": 125198,
             "topics": [
               "ai",
               "base-ui",
@@ -109,7 +109,7 @@
             "open_issues": 22,
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4855,
+            "stars": 4856,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -133,10 +133,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -154,10 +154,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -175,10 +175,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -196,10 +196,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -217,10 +217,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-06T03:55:19Z",
-            "open_issues": 14295,
+            "open_issues": 14317,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 149566,
+            "stars": 149572,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -241,7 +241,7 @@
             "open_issues": 17,
             "owner": "google-labs-code",
             "repo": "stitch-skills",
-            "stars": 8427,
+            "stars": 8429,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -259,10 +259,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -294,11 +294,11 @@
             "id": 585146387,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:21:53Z",
-            "open_issues": 1812,
+            "last_commit": "2026-10-06T12:45:11Z",
+            "open_issues": 1774,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125191,
+            "stars": 125198,
             "topics": [
               "ai",
               "base-ui",
@@ -337,7 +337,7 @@
             "open_issues": 179,
             "owner": "vercel-labs",
             "repo": "agent-skills",
-            "stars": 31982,
+            "stars": 31986,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -395,7 +395,7 @@
             "open_issues": 22,
             "owner": "remotion-dev",
             "repo": "skills",
-            "stars": 4855,
+            "stars": 4856,
             "topics": []
           },
           "first_seen": "2026-08-28T18:33:09.543Z"
@@ -464,7 +464,7 @@
             "open_issues": 132,
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 53418,
+            "stars": 53432,
             "topics": [
               "claude",
               "codex",
@@ -489,7 +489,7 @@
             "open_issues": 132,
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 53418,
+            "stars": 53432,
             "topics": [
               "claude",
               "codex",
@@ -514,7 +514,7 @@
             "open_issues": 132,
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 53418,
+            "stars": 53432,
             "topics": [
               "claude",
               "codex",
@@ -539,7 +539,7 @@
             "open_issues": 132,
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 53418,
+            "stars": 53432,
             "topics": [
               "claude",
               "codex",
@@ -588,10 +588,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -618,10 +618,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -648,10 +648,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -678,10 +678,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-06T05:15:48Z",
-            "open_issues": 313,
+            "open_issues": 314,
             "owner": "obra",
             "repo": "superpowers",
-            "stars": 295807,
+            "stars": 295845,
             "topics": [
               "ai",
               "brainstorming",
@@ -717,7 +717,7 @@
             "open_issues": 53,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 35261,
+            "stars": 35263,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -775,11 +775,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:12:16Z",
-            "open_issues": 1221,
+            "last_commit": "2026-10-06T12:15:32Z",
+            "open_issues": 1223,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 55137,
+            "stars": 55145,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -868,7 +868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:54:53.508Z",
+    "last_updated": "2026-10-06T13:12:41.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Claude Code 最实用的 Skills / Agents / Plugins 精选合集 | 50+ 精选 | 按场景分类 | 带推荐等级 | 复制即装",
